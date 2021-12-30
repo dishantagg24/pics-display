@@ -14,7 +14,7 @@
 
 </p>
 
-- Go Test Here : [Site](https://pics-display-dishantagg24.vercel.app/)
+- Go Test Here : [Site](https://pics-display.vercel.app/)
 
 <!-- GETTING STARTED -->
 
